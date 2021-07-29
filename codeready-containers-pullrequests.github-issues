@@ -2,7 +2,7 @@
   {
     "kind": 1,
     "language": "markdown",
-    "value": "Issues notebook for CodeReady Containers\r\n========================================\r\n"
+    "value": "Pull Requests for CodeReady Containers\r\n======================================"
   },
   {
     "kind": 1,
@@ -12,21 +12,21 @@
   {
     "kind": 2,
     "language": "github-issues",
-    "value": "repo:code-ready/crc is:open type:issue"
+    "value": "repo:code-ready/crc is:open type:pr"
   },
   {
     "kind": 2,
     "language": "github-issues",
-    "value": "repo:code-ready/tray-windows is:open type:issue"
+    "value": "repo:code-ready/snc is:open type:pr"
   },
   {
     "kind": 2,
     "language": "github-issues",
-    "value": "repo:code-ready/tray-macos is:open type:issue"
+    "value": "repo:code-ready/tray-windows is:open type:pr"
   },
   {
     "kind": 2,
     "language": "github-issues",
-    "value": "repo:code-ready/snc is:open type:issue"
+    "value": "repo:code-ready/tray-macos is:open type:pr"
   }
 ]
